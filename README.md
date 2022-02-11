@@ -1,1 +1,2 @@
-# multimodal_traffic_event_detection
+# multimodal traffic event detection
+to be updated after publication
